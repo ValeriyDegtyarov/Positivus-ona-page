@@ -1,2 +1,2 @@
-# Positivus-ona-page
+# Positivus-one-page
 One-page website layout practice
